@@ -23,5 +23,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnsonakanmu/Node.js-login-and-Reg-with-DB_login-logout-and-Auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Johnsonakanmu/Node.js-login-and-Reg-with-DB_login-logout-and-Auth/issues"
+  },
+  "homepage": "https://github.com/Johnsonakanmu/Node.js-login-and-Reg-with-DB_login-logout-and-Auth#readme"
 }
